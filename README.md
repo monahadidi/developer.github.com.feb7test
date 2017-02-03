@@ -3,8 +3,6 @@
 
 This is a GitHub API resource built with [Nanoc][nanoc].
 
-All submissions are welcome. To submit a change, fork this repo, commit your changes, and send us a [pull request](http://help.github.com/send-pull-requests/).
-
 ## Development
 
 You can fetch the latest dependencies by opening the command line and running `script/bootstrap`:
@@ -46,7 +44,7 @@ Nanoc has [some nice documentation](http://nanoc.ws/docs/tutorial/) to get you s
 
 [nanoc]: http://nanoc.ws/
 
-### Enterprise
+### Enterprise 
 
 To generate the `/enterprise` versions, pass in the Enterprise version to `script/server`. For example:
 
@@ -56,7 +54,7 @@ $ script/server 2.6
 
 Note that live reloading is not available for Enterprise documentation.
 
-## Styleguide
+## Styleguide changes 
 
 Not sure how to structure the docs?  Here's what the structure of the
 API docs should look like:
