@@ -29,7 +29,7 @@ The API reference refers to most of the content under <https://developer.github.
   - `Description`, which describes the parameter. Start the description with the phrase **Required.** if it's required. If it's an optional parameter, end the description by listing the default value, if any.
 - Provide the endpoint's response. Responses are stored in the _lib/responses_ folder.
 
-Optionally, you may choose to include an example. Examples should be introduced with an `h3`, and should occur after the parameters are introduced and before the response.
+Optionally, you may choose create an example. Examples should be introduced with an `h3`, and should occur after the parameters are introduced and before the response.
 
 ## Platform Guides
 
