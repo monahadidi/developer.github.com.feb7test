@@ -1,0 +1,14 @@
+language: 루비
+rvm:
+- 2.2.3
+cache:
+  directories:
+  - 공급 업체 / 번들
+  - Node_modules
+sudo: 그릇된
+git:
+  depth: (10)
+script:
+- NPM 설치
+- 스크립트 / cibuild
+- name: 모나
