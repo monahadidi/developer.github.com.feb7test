@@ -11,3 +11,4 @@ git:
 script:
   - npm install
   - script/cibuild
+  - name: mona
