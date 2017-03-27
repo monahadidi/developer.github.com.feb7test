@@ -11,3 +11,5 @@ git:
 script:
   - npm install
   - script/cibuild
+  
+  this is a new string
