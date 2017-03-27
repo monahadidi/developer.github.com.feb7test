@@ -1,7 +1,5 @@
 # Contributing to this repository
 
-Use this repository to:
-
 - Report bugs in the documentation.
 - Propose minor updates to content such as typo fixes or clarifications.
 
